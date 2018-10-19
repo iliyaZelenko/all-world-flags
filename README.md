@@ -1,0 +1,1 @@
+I once found these flags and tried to find them again on the github, but they were only in the "ISO 3166-1 alpha-2" format. Therefore, I decided to share it so that people could find the flags in the "ISO 3166-1 alpha-2" format. Hope this helps someone.
